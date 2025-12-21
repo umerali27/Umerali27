@@ -1,18 +1,13 @@
 ##                                                                              Hi there 👋
 
 
-I am an enthusiastic AWS DevOps Engineer with 2.5 years hands-on experience in automating and managing cloud infrastructure. I specialize in building scalable CI/CD pipelines, managing source control with GitHub, and deploying applications using tools like Jenkins, Docker, Kubernetes
+DevOps Engineer with around 3 years of hands-on experience in designing, automating, and maintaining scalable, reliable, and secure cloud-based infrastructures. Experienced in building and managing CI/CD pipelines, containerized applications, and cloud environments with a strong focus on automation, stability, and operational excellence.
 
-I have a solid foundation in AWS core services such as EC2, S3, IAM, RDS, VPC, ECR, ECS, EKS and CloudWatch. I enjoy collaborating with development and operations teams to streamline deployments, monitor performance, and ensure high system availability. I'm passionate about continuous improvement and eager to grow in cloud-native and DevOps environments.
+Proficient in AWS, Azure, Docker, Kubernetes, and Terraform to provision and manage multi-environment setups (Development, Testing, and Production). Hands-on experience in implementing end-to-end CI/CD pipelines using tools such as Jenkins, GitHub enabling faster and more reliable application deployments.
 
-🔹 Key Skills
-• AWS Services - (EC2, S3, IAM, RDS, VPC, EKS, CloudWatch).
-• CI/CD Pipelines - Jenkins, CodePipeline, CodeBuild, CodeDeploy, ArgoCD.
-• Version Control - Git, GitHub, Webhooks, Branching Strategies.
-• Container & Orchestration - Docker, Kubernetes.
-• Scripting Languages - Python, Shell, Groovy.
-• IaC Tools - Terraform, Ansible, Cloud Formation.
-• Monitoring & Logging – Prometheus & Grafana.
+Strong understanding of monitoring, logging, and incident response, using tools like Prometheus, and Grafana to ensure high availability and performance of applications.
+
+A collaborative team player with a mindset aligned to DevOps  focused on continuous improvement, automation, and delivering value to the business.
 <!--
 **umerali27/Umerali27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
