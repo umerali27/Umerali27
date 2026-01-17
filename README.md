@@ -11,25 +11,33 @@ A collaborative team player with a mindset aligned to DevOps  focused on continu
 <!--
 **umerali27/Umerali27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Tech Stack
 
- Tech Stack
+### Languages & Frameworks
+<p>
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="CSS3" />
+</p>
 
- Cloud & DevOps
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS" />
-<img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
-<img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
-<img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="Jenkins" />
-<img src="https://cdn.simpleicons.org/gitlab/FC6D26" height="40" alt="GitLab" />
-<img src="https://cdn.simpleicons.org/terraform/844FBA" height="40" alt="Terraform" />
-<img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="Ansible" />
+### Cloud & DevOps
+<p>
+  <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
+  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="40" alt="Jenkins" />
+  <img src="https://cdn.simpleicons.org/terraform/844FBA" height="40" alt="Terraform" />
+  <img src="https://cdn.simpleicons.org/ansible/EE0000" height="40" alt="Ansible" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="40" alt="GitHub" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Databases & Monitoring
+<p>
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="MongoDB" />
+  <img src="https://cdn.simpleicons.org/prometheus/E6522C" height="40" alt="Prometheus" />
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="40" alt="Grafana" />
+</p>
