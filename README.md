@@ -3,8 +3,6 @@
 
 DevOps Engineer with around 3 years of hands-on experience in designing, automating, and maintaining scalable, reliable, and secure cloud-based infrastructures. Experienced in building and managing CI/CD pipelines, containerized applications, and cloud environments with a strong focus on automation, stability, and operational excellence.
 
-Proficient in AWS, Azure, Docker, Kubernetes, and Terraform to provision and manage multi-environment setups (Development, Testing, and Production). Hands-on experience in implementing end-to-end CI/CD pipelines using tools such as Jenkins, GitHub enabling faster and more reliable application deployments.
-
 Strong understanding of monitoring, logging, and incident response, using tools like Prometheus, and Grafana to ensure high availability and performance of applications.
 
 A collaborative team player with a mindset aligned to DevOps  focused on continuous improvement, automation, and delivering value to the business.
