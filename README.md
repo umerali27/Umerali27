@@ -12,9 +12,10 @@ A collaborative team player with a mindset aligned to DevOps  focused on continu
 **umerali27/Umerali27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-### Tech Stack
 
-#### Cloud & DevOps
+ Tech Stack
+
+ Cloud & DevOps
 <img src="https://cdn.simpleicons.org/amazonaws/FF9900" height="40" alt="AWS" />
 <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
 <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="Kubernetes" />
