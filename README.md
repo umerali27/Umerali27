@@ -1,4 +1,4 @@
-# Hi, I'm Umer Ali 👋
+# Hello, This is Umer Ali 👋
 I am a highly motivated and skilled DevOps Engineer with 3+ years of experience, strong capabilities in cloud 
 technologies, automation, CI/ CD, container orchestration, and modern infrastructure tools. I specialize in Docker, 
 Kubernetes, Jenkins, Terraform, ArgoCD, and monitoring solutions such as Prometheus, Grafana, and 
